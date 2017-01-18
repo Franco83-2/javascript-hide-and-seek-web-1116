@@ -32,3 +32,4 @@ function deepestChild() {
     elementChild = element.children[0]
   }
   return element
+}
